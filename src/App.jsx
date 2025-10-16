@@ -132,7 +132,7 @@ export default function App() {
         className="Sticky   w-full z-50 transition-all duration-500"
   
       >
-        <div className="max-w-6xl flex justify-between items-center my-2 mx-4 py-4 px-6 bg-black/50 backdrop-blur-md rounded-lg shadow-lg">
+        <div className="flex justify-between items-center my-2 py-4 px-6 bg-black/20 backdrop-blur-md rounded-lg shadow-lg">
           <h1 className="bg-white p-1 px-4 flex rounded text-2xl font-bold text-blue-600">
             BlueFrost
           </h1>
